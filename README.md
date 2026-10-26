@@ -43,7 +43,7 @@ The rooftop geometry was modelled in PV\*SOL, followed by module placement and s
 
 
 **Design files:**\
-[Roof Area Modeling](02_3D_PV_Design/01_Roof_Area_Modeling.png) • [Rooftop PV Layout](02_3D_PV_Design/02_Rooftop_PV_Layout.png) • [Shading Analysis](02_3D_PV_Design/03_Shading_Analysis.png)
+[Roof Area Modelling](02_3D_PV_Design/01_Roof_Area_Modelling.png) • [Rooftop PV Layout](02_3D_PV_Design/02_Rooftop_PV_Layout.png) • [Shading Analysis](02_3D_PV_Design/03_Shading_Analysis.png)
 
 ---
 
@@ -100,7 +100,7 @@ Vascon-Eco-Tower-Solar-PV-Design-PVSol/
 │   └── 03_System_Climate_Grid_Setup.png
 │
 ├── 02_3D_PV_Design/
-│   ├── 01_Roof_Area_Modeling.png
+│   ├── 01_Roof_Area_Modelling.png
 │   ├── 02_Rooftop_PV_Layout.png
 │   ├── 03_Shading_Analysis.png
 │   └── 04_Final_3D_PV_Design.png
